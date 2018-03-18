@@ -1,0 +1,5 @@
+- ice-cream : (vanilla or vanilla based) | no flavours
+- toppings : cashew, almonds, peanuts, dates, biscuits, gems
+- toppings :  frozen-choco-spread, frozen-nutella,
+- toppings : strawberry, banana, grapes
+- sauce : caramel, chocolate, pineapple-squash, monin-syrups
