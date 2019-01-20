@@ -13,7 +13,7 @@
 ||||
 |-|-|-|
 | cheese | raw | shredded | slices or parma |
-| cucumber raw | english | shredded or paperthin cuts |
+| cucumber | raw | english | shredded or paperthin cuts |
 | tomato | raw | normal/cherry | diced or sliced |
 | onion | raw | - | rings |
 | carrot | raw | - | thin-sliced/shredded | 
@@ -34,11 +34,14 @@
 | w-melon | diced | 
 | pear | diced | 
 | guava | diced | 
+| guava | diced | 
+| kiwi | sliced |
 | grapes | sliced |
 | papaya | diced |
 | pinapple | diced |
 | pomegranate | seeded |
 | strawberry | sliced |
+| mango | diced |
 
 ***
 
@@ -76,4 +79,8 @@
 | lemon juice | |
 | orange squash | |
 | honey | |
+| yogurt | flavoured/epigamia |
 | | |
+
+
+
